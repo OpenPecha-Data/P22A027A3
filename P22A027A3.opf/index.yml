@@ -1,0 +1,196 @@
+id: 1547d27d70f0417eb3e493cf8c6110cd
+annotation_type: index
+revision: '00001'
+annotations:
+  3dcabbb0798c49bd9101391a45a00c91:
+    work_id: WAF0DDAFD
+    span:
+      vol: 'CIII_Chapter 21: Pakiṇṇavaggo'
+      start: 0
+      end: 419
+  8246eefba82e4075b457cd360d16a76e:
+    work_id: W8345492E
+    span:
+      vol: 'CIII_Chapter 22: Nirayavaggo'
+      start: 0
+      end: 607
+  7bb81ff446c647ceb1b25591aa3af282:
+    work_id: W2DD6F9FD
+    span:
+      vol: 'CIII_Chapter 23: Nāgavaggo'
+      start: 0
+      end: 489
+  809badf17b47470e80086d3f661366de:
+    work_id: WE2344537
+    span:
+      vol: 'CIII_Chapter 24: Taṇhāvaggo'
+      start: 0
+      end: 1056
+  f5e9840ca53144d1a78ad3efaefc5662:
+    work_id: W555BCE4E
+    span:
+      vol: 'CIII_Chapter 25: Bhikkhuvaggo'
+      start: 0
+      end: 932
+  80d5a609ca4d46ec97794de5a5239e01:
+    work_id: WC558B909
+    span:
+      vol: 'CIII_Chapter 26: Brāhmaṇavaggo'
+      start: 0
+      end: 1165
+  7ae1549b44eb441f909d30032023cf1c:
+    work_id: WE3979FE9
+    span:
+      vol: 'CII_Chapter 11: Jarāvaggo'
+      start: 0
+      end: 427
+  563f56cd104847448c0fcf36c9a293a5:
+    work_id: WDAB1812A
+    span:
+      vol: 'CII_Chapter 12: Attavaggo'
+      start: 0
+      end: 426
+  b0df90b51cde425a84f8b88f2154b98c:
+    work_id: W79C88D9A
+    span:
+      vol: 'CII_Chapter 13: Lokavaggo'
+      start: 0
+      end: 528
+  1a171cbd1f6c477cbf24dfe2092256f1:
+    work_id: W53CF8FA5
+    span:
+      vol: 'CII_Chapter 14: Buddhavaggo'
+      start: 0
+      end: 685
+  14cdd398ae6b487799307b4a23fc58cb:
+    work_id: WAAA38446
+    span:
+      vol: 'CII_Chapter 15: Sukhavaggo'
+      start: 0
+      end: 420
+  b66f49f2337f4cb3853d8e120bd82b3a:
+    work_id: WB2440CCC
+    span:
+      vol: 'CII_Chapter 16: Piyavaggo'
+      start: 0
+      end: 364
+  160b978d476b4717889274207a279c68:
+    work_id: W8EDE8808
+    span:
+      vol: 'CII_Chapter 17: Kodhavaggo'
+      start: 0
+      end: 745
+  96346c01a8fd42549b8802da417c8b7e:
+    work_id: W42E2C402
+    span:
+      vol: 'CII_Chapter 18: Malavaggo'
+      start: 0
+      end: 625
+  5b409c58c94642489bcef90191947849:
+    work_id: W84E903B8
+    span:
+      vol: 'CII_Chapter 19: Dhammaṭṭhavaggo'
+      start: 0
+      end: 508
+  a7325ee4f46348668c88685f813548cc:
+    work_id: W4ABD228D
+    span:
+      vol: 'CII_Chapter 20: Maggavaggo'
+      start: 0
+      end: 1037
+  0f6f9ba98a2542678c32451a11474cf9:
+    work_id: W1871C0BC
+    span:
+      vol: CIV_Additional Chinese verses
+      start: 0
+      end: 9061
+  5fc14c13ac224c7595098b0bcaab23f9:
+    work_id: W08D02D21
+    span:
+      vol: CIV_Additional Gāndhārī verses
+      start: 0
+      end: 0
+  0261cdc0db754e349e12a664516821ed:
+    work_id: W110350D3
+    span:
+      vol: CIV_Additional Prakrit verses
+      start: 0
+      end: 0
+  4e49c82d83614944a54e2c9cf31c4d50:
+    work_id: W968F16F6
+    span:
+      vol: 'CI_Chapter 10: Daṇaḍavaggo'
+      start: 0
+      end: 614
+  2239f165346d4e9ebf635541d1f194c5:
+    work_id: W6AF62446
+    span:
+      vol: 'CI_Chapter 1: Yamakavaggo'
+      start: 0
+      end: 714
+  777bc350a5f840539ea3007c174066e7:
+    work_id: W7B448ADD
+    span:
+      vol: 'CI_Chapter 2: Appamādavaggo'
+      start: 0
+      end: 617
+  0fed2ff545ea4ef8bfc0433377995fa0:
+    work_id: WB491F3F9
+    span:
+      vol: 'CI_Chapter 3: Cittavaggo'
+      start: 0
+      end: 363
+  749030961c0b4885b86236050bf1abe0:
+    work_id: WEEFE11D4
+    span:
+      vol: 'CI_Chapter 4: Pupphavaggo'
+      start: 0
+      end: 499
+  1be4c8bfc97146d1ac50056dcfb65b37:
+    work_id: W80333D23
+    span:
+      vol: 'CI_Chapter 5: Bālavaggo'
+      start: 0
+      end: 699
+  93def1146af64b88b94cbd345a9c4159:
+    work_id: W546C38CA
+    span:
+      vol: 'CI_Chapter 6: Paṇḍitavaggo'
+      start: 0
+      end: 634
+  c2e70c1b4b6f44b5b95c07b608cc829d:
+    work_id: W841F0D84
+    span:
+      vol: 'CI_Chapter 7: Arahantavaggo'
+      start: 0
+      end: 382
+  0d7d0189aeb14583bacd2e595bb36cdb:
+    work_id: W2F21B15A
+    span:
+      vol: 'CI_Chapter 8: Sahassavaggo'
+      start: 0
+      end: 554
+  c5d0c4964bef4263a404f3cffdd20658:
+    work_id: W4BC4B557
+    span:
+      vol: 'CI_Chapter 9: Pāpavaggo'
+      start: 0
+      end: 644
+  ec9b6f82b35b4fab896804946391c795:
+    work_id: WFF6CF4AD
+    span:
+      vol: Colophon
+      start: 0
+      end: 0
+  deb14083087c4d329767b1c64e212670:
+    work_id: W8E70A707
+    span:
+      vol: Preface
+      start: 0
+      end: 26
+  2e7969a36f6c4d65a98815de4ee79ce2:
+    work_id: W5C142A9B
+    span:
+      vol: Title
+      start: 0
+      end: 15
